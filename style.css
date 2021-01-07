@@ -1,0 +1,99 @@
+ body
+ 	{
+ 		background-color: #f4e1d2;
+ 	}
+
+ p 
+ 	{
+ 	font-family: 'Gochi Hand', cursive;
+ 	}
+
+
+
+h1 
+	{
+		font-family: 'Monoton', cursive;
+		font-size: 50px;
+		color:#034f84;
+	}
+
+h2 
+	{
+		font-family: 'Langar', cursive;
+	}
+
+h3
+	{
+		font-family: 'Gochi Hand', cursive;
+		color: darkred;	
+		background-color: #eea29a;
+		padding: 5px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		border-radius:50px;
+	}
+
+a
+	{
+		color: darkred;	
+		padding: 5px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		border-radius:50px;
+	}
+
+button
+	{
+		color: darkred;	
+		background-color: #b2b2b2;
+		padding: 10px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		border-radius:50px;
+	}
+
+	<style>
+			a:link
+			{
+				color: #c94c4c;	
+				padding: 5px;
+				text-align: center;
+				text-decoration: none;
+				display: inline-block;
+				border-radius:50px;
+			}
+
+			a:visited
+			{
+			color: darkred;	
+			padding: 5px;
+			text-align: center;
+			text-decoration: none;
+			display: inline-block;
+			border-radius:50px;
+			}
+
+			a:hover
+			{
+			color: yellow;	
+			padding: 5px;
+			text-align: center;
+			text-decoration: none;
+			display: inline-block;
+			border-radius:50px;
+			}
+
+			a:active
+			{
+			color: red;	
+			padding: 5px;
+			text-align: center;
+			text-decoration: none;
+			display: inline-block;
+			border-radius:50px;
+			}
+
+		</style>
